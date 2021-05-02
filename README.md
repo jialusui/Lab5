@@ -9,4 +9,8 @@ LINK TO YOUR PUBLISHED SITE
 
 ## Part 2:
 
-LINK TO YOUR PART 2 REPOSITORY
+LINK TO YOUR PART 2 REPOSITORY：
+https://github.com/jialusui/github-actions-for-ci.git
+
+LINK TO LATEST ISSUE:
+https://github.com/jialusui/github-actions-for-ci/issues/7
