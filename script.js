@@ -124,7 +124,7 @@ form.addEventListener('submit',(event) =>{
   context.font = "30px Arial"; 
   context.fillStyle = 'white'; 
   context.textAlign = "center"; 
-  context.fillText(top, 200, 30); 
+  context.fillText(top, 200, 40); 
   context.fillText(down, 200, 380); 
 
   generate_button.disabled = true;
